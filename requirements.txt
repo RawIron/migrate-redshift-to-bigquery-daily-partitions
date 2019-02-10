@@ -1,0 +1,11 @@
+pandas
+pandas-gbq
+sqlalchemy
+psycopg2
+google-cloud-bigquery
+docopt
+
+jupyter
+matplotlib
+seaborn
+statsmodels
